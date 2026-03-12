@@ -31,7 +31,7 @@ const AboutSection = () => {
                             className="absolute bottom-0 right-0 w-2/3 h-2/3 bg-gray-300 dark:bg-white/10 border-8 border-white dark:border-brand-black overflow-hidden shadow-2xl"
                         >
                             <img
-                                src="https://images.unsplash.com/photo-1544642921-2e6fd636dd79?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+                                src="https://images.unsplash.com/photo-1519741497674-611481863552"
                                 alt="Modern UK Wedding"
                                 className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
                             />

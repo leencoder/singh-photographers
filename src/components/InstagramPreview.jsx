@@ -2,12 +2,12 @@ import { Instagram } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const instaImages = [
-    "https://images.unsplash.com/photo-1544642921-2e6fd636dd79?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
     "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
     "https://images.unsplash.com/photo-1606800052052-a08af7148866?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
     "https://images.unsplash.com/photo-1583939003579-730e3918a45a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-    "https://images.unsplash.com/photo-1620059521360-14eaf4d5ec25?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
-    "https://images.unsplash.com/photo-1542042161784-26ab9e041e89?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80"
+    "https://images.unsplash.com/photo-1587271339318-2e78fdf79586?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://images.unsplash.com/photo-1542042161784-26ab9e041e89?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+    "https://media.istockphoto.com/id/2228487716/photo/elegant-banquet-hall-with-classical-architecture-and-wedding-decor.jpg?s=612x612&w=0&k=20&c=SPsUI-c2KwGGEZjKzX5TvUyAeY6kbOOZw-VrWbX439c="
 ];
 
 const InstagramPreview = () => {
